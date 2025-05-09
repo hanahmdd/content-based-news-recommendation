@@ -16,9 +16,3 @@ It uses the [MIND dataset](https://www.kaggle.com/datasets/arashnic/mind-news-da
   - `user_feedback_notes.txt`: Placeholder for future feedback.
 - **requirements.txt**: Python dependencies.
 
-## Setup
-
-1. Clone this repo  
-   ```bash
-   git clone <repo-url>
-   cd news-recommender
