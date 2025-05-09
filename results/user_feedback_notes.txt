@@ -1,0 +1,9 @@
+[2025-05-09] Ran full pipeline end‑to‑end; no errors encountered.
+[2025-05-09] Top‑10 recommendations skew heavily toward health and lifestyle topics.
+[2025-05-09] Some high‑ranked articles (e.g., royal lifestyle piece) seem only tangentially related—consider adding stricter category filtering.
+[2025-05-09] TF‑IDF features look good, but lemmatization with spaCy may improve term matching.
+[2025-05-09] Next steps: 
+  • Expand user profile by averaging vectors of clicked articles.  
+  • Tune TF‑IDF parameters (e.g., include bigrams, adjust min_df).  
+  • Add implicit feedback loop for refining recommendations.
+
